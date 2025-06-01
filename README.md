@@ -91,4 +91,4 @@ lib/
 ├── widgets/
 │   └── movie_tile.dart                     # Movie display widget
 └── main.dart                              # Application entry point
----
+
