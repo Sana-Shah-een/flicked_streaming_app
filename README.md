@@ -82,11 +82,20 @@ This project is released under the [MIT License](LICENSE), enabling open-source 
    flutter run
 
 ---
+## 🔑 API Configuration
+Your app requires API keys and base URLs to connect to TMDb services. Below are two common formats you might use:
+
+### JSON Configuration Example
+
+{
+  "API_KEY": "your_actual_api_key_here",
+  "BASE_API_URL": "https://api.themoviedb.org/3",
+  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+}
 
 
 ## 📁 Folder Structure
-
--
+```bash
 lib/
 ├── controllers/
 │   └── main_page_data_controller.dart     # Business logic for main page
@@ -106,18 +115,10 @@ lib/
 ├── widgets/
 │   └── movie_tile.dart                     # Movie display widget
 └── main.dart                              # Application entry point
----
-## 🔑 API Configuration
 
-Your app requires API keys and base URLs to connect to TMDb services. Below are two common formats you might use:
 
-### JSON Configuration Example
 
-```json
-{
-  "API_KEY": "your_actual_api_key_here",
-  "BASE_API_URL": "https://api.themoviedb.org/3",
-  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
-}
+
+
 
 
