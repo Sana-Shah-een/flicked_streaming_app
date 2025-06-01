@@ -65,7 +65,22 @@ Developing Flicked has been an enriching experience that deepened my Flutter pro
 
 This project is released under the [MIT License](LICENSE), enabling open-source use with minimal restrictions.
 
+---
 
+## How to Run
+
+1. Make sure you have Flutter installed. If not, follow the [Flutter installation guide](https://flutter.dev/docs/get-started/install).
+   
+2. Clone or download this project to your computer.
+    ```bash
+git clone https://github.com/Sana-Shah-een/flicked_streaming_app.git
+
+
+4. Open the project in your code editor (e.g., **Visual Studio Code**).
+
+5. Run the following command in the terminal:
+   ```bash
+   flutter run
 
 ---
 
