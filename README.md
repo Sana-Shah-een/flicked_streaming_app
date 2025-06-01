@@ -74,7 +74,6 @@ This project is released under the [MIT License](LICENSE), enabling open-source 
     ```bash
     git clone https://github.com/Sana-Shah-een/flicked_streaming_app.git
 
-
 4. Open the project in your code editor (e.g., **Visual Studio Code**).
 
 5. Run the following command in the terminal:
