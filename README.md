@@ -33,7 +33,6 @@ This layered structure ensures scalability, testability, and ease of future enha
 
 ## 🛠️ Tech Stack
 
-<p align="center">
 
 | Technology                 | Role                                     |
 |----------------------------|------------------------------------------|
@@ -44,8 +43,6 @@ This layered structure ensures scalability, testability, and ease of future enha
 | **TMDb API**               | Movie content provider                    |
 | **Material UI**            | Native mobile design system               |
 | **VS Code / Android Studio** | Development environments               |
-
-</p>
 
 ---
 # Repository
@@ -61,11 +58,13 @@ Developing Flicked has been an enriching experience that deepened my Flutter pro
 
 ---
 
+
 ## 📄 License
 
 This project is released under the [MIT License](LICENSE), enabling open-source use with minimal restrictions.
 
 ---
+
 
 ## How to Run
 
@@ -83,6 +82,20 @@ This project is released under the [MIT License](LICENSE), enabling open-source 
    flutter run
 
 ---
+## 🔑 API Configuration
+
+Your app requires API keys and base URLs to connect to TMDb services. Below are two common formats you might use:
+
+### JSON Configuration Example
+
+```json
+{
+  "API_KEY": "your_actual_api_key_here",
+  "BASE_API_URL": "https://api.themoviedb.org/3",
+  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+}
+
+
 
 ## 📁 Folder Structure
 
