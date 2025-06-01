@@ -48,6 +48,26 @@ This layered structure ensures scalability, testability, and ease of future enha
 </p>
 
 ---
+# Repository
+
+Explore the full source code, report issues, or contribute here:  
+[https://github.com/Sana-Shah-een/flicked_streaming_app](https://github.com/Sana-Shah-een/flicked_streaming_app)
+
+---
+
+## 🙌 About This Project
+
+Developing Flicked has been an enriching experience that deepened my Flutter proficiency, especially in applying clean architecture and leveraging Riverpod for robust state management. I am excited to continue enhancing my skills and building scalable, maintainable, and polished mobile applications.
+
+---
+
+## 📄 License
+
+This project is released under the [MIT License](LICENSE), enabling open-source use with minimal restrictions.
+
+
+
+---
 
 ## 📁 Folder Structure
 
@@ -71,23 +91,4 @@ lib/
 ├── widgets/
 │   └── movie_tile.dart                     # Movie display widget
 └── main.dart                              # Application entry point
----
-
-## 🔗 Repository
-
-Explore the full source code, report issues, or contribute here:  
-[https://github.com/Sana-Shah-een/flicked_streaming_app](https://github.com/Sana-Shah-een/flicked_streaming_app)
-
----
-
-## 🙌 About This Project
-
-Developing Flicked has been an enriching experience that deepened my Flutter proficiency, especially in applying clean architecture and leveraging Riverpod for robust state management. I am excited to continue enhancing my skills and building scalable, maintainable, and polished mobile applications.
-
----
-
-## 📄 License
-
-This project is released under the [MIT License](LICENSE), enabling open-source use with minimal restrictions.
-
 ---
