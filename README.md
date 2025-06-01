@@ -87,10 +87,10 @@ Your app requires API keys and base URLs to connect to TMDb services. Below are 
 
 ### JSON Configuration Example
 
-{
-  "API_KEY": "your_actual_api_key_here",
-  "BASE_API_URL": "https://api.themoviedb.org/3",
-  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"
+{<br>
+  "API_KEY": "your_actual_api_key_here", <br>
+  "BASE_API_URL": "https://api.themoviedb.org/3",<br>
+  "BASE_IMAGE_API_URL": "https://image.tmdb.org/t/p/original/"<br>
 }
 
 
@@ -115,10 +115,3 @@ lib/
 ├── widgets/
 │   └── movie_tile.dart                     # Movie display widget
 └── main.dart                              # Application entry point
-
-
-
-
-
-
-
